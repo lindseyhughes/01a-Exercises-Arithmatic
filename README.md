@@ -1,4 +1,4 @@
-#Exercises'
+#Exercises
 
 These are the first set of exercises to help teach python code.
 
